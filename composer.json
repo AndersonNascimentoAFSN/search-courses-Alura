@@ -44,5 +44,8 @@
     "scripts-descriptions": {
         "check": "Roda as verificações do código. PHAN e PHPCS"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "bin": [
+        "searchCursos.php"
+    ]
 }
